@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: base_data
+    database: FIVETRAN_INTERVIEW_DB
+    schema: GOOGLE_SHEETS
+    tables: 
+      - name: COVID_19_INDONESIA_ABHISHEK_JAIN
